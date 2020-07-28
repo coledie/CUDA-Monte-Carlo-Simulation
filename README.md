@@ -6,6 +6,6 @@ Monte carlo simulation of the game craps implemented with CUDA. [See Numpy imple
 
 Implementation | Time(s) / 1M
 --- | ---
-Python | ???
+Python | 9.73
 Numpy | .16
-CUDA(v1) | ???
+CUDA(v1.cu) | ???
